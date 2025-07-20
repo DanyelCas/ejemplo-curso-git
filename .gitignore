@@ -1,0 +1,33 @@
+################################
+### ANGULAR
+################################
+/dist                # Carpeta de compilación
+/node_modules        # Dependencias (se instalan con 'npm install')
+/.angular/cache      # Caché del CLI de Angular
+
+################################
+### ARCHIVOS DE DESARROLLO
+################################
+/.vscode/           # Configuración de VS Code
+/.idea/             # Configuración de JetBrain
+*.log               # Archivos de registro (errores, consola)
+*.tmp               # Archivos temporales
+
+################################
+### 🖥️ ARCHIVOS DEL SISTEMA
+################################
+Thumbs.db           # Caché de thumbnails en Windows
+Desktop.ini         # Configuración de carpeta en Windows
+
+################################
+### 📦 DEPENDENCIAS/PAQUETES
+################################
+package-lock.json   # Bloqueo de versiones
+yarn.lock           # Bloqueo de versiones de Yarn
+pnpm-lock.yaml      # Bloqueo de versiones de PNPM
+
+################################
+### 🧹 TEMPORALES Y BACKUPS
+################################
+*.bak               # Copias de seguridad
+*.temp              # Archivos temporales

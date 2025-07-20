@@ -1,0 +1,2 @@
+Este es un archivo txt de prueba
+El objetivo de su creación es para que existan cambios para un nuevo commit.

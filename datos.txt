@@ -1,3 +1,4 @@
 Este es el archivo real.
 Es un archivo creado para crear conflictos para el curso de GIT. 
 Este archivo es el que debe quedar luego de resolver los conflictos al intentar hacer un merge.
+cambio para el ejemplo del comando diff
